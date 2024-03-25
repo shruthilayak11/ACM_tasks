@@ -15,7 +15,7 @@
 username = "your_username"
 password = "your_password"
 ```
-# Remember to enable the automatic connect in wifi ;)
+### Remember to enable the automatic connect in wifi ;)
 
 ## Task_2: Given is a binary file run the file and solve the q if answer is correct display the flag and get the answer while also specifying the input value
 
