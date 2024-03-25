@@ -21,7 +21,7 @@ password = "your_password"
 
 ### The flag is in the `flag.txt`
 
-# How I found the flag.
+## How I found the flag.
 - As it's a binary file I used `rabin2` tool to extract the binary file info
 ```
 rabin2 -I q
