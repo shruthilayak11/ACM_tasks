@@ -25,7 +25,7 @@ password = "your_password"
 rabin2 -I q
 ```
 - Then I found that the language used was `C`
-- Then I used `string` command to search through the binary data to find and display sequences of printable characters.
+- Then I used `strings` command to search through the binary data to find and display sequences of printable characters.
 - I came across `acm_ftw` just before `flag.txt`. I guessed it as flag to confirm this I used a tool `ghidra`, used to analyze and debugging the binary file.
   There in the `switch case` i came across a `check_win()` fucntion under case 4 and when I inspected . This appeared
 ```@C
