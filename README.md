@@ -1,6 +1,6 @@
-# ACM_tasks
 
-## TASK_1: Automate the vit wifi login +  automate the login procedure itself
+
+## 1: Automate the vit wifi login +  automate the login procedure itself
 ## How I managed to do it:
 - As soon as I saw the task the forst thing that popped in my mind is the `selenium tool` and as am good at python I created a pyhton script using selenium package with some help from chatgpt.
 - then i used batch to automate it at the start up (I have some knowledgeon basic batch scripting)
@@ -17,7 +17,7 @@ password = "your_password"
 ```
 ### Remember to enable the automatic connect in wifi ;)
 
-## Task_2: Given is a binary file run the file and solve the q if answer is correct display the flag and get the answer while also specifying the input value
+## 2: Given is a binary file run the file and solve the q if answer is correct display the flag and get the answer while also specifying the input value
 
 ### The flag is in the `flag.txt`
 
